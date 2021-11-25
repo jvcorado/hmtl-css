@@ -116,7 +116,7 @@ main{
     left: -145px;
     top: 10px;
 }
-.tiktok{
+.github{
     background-color: rgb(255, 255, 255);
     height: 50px;
     max-width: 300px;
@@ -126,21 +126,21 @@ main{
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.37);
     user-select: none;
 }
-.tiktok:hover{
+.github:hover{
     background-color:#d5dbdb6e;
     transition: background 1s linear;
 }
-.tiktok a{
+.github a{
     color: black;
     position: relative;
     left: 15px;
     text-decoration: none;
 }
-.tiktok a:hover{
+.github a:hover{
     text-decoration: underline;
     color: #2b6bd9;
 }
-.tiktok img{
+.github img{
     position: relative;
     left: -135px;
     top: 10px;
