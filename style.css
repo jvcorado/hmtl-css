@@ -224,7 +224,7 @@ main{
 .certificado a{
     color: black;
     position: relative;
-    top: 8px;
+ 
     left: 15px;
     text-decoration: none;
 }
@@ -234,7 +234,7 @@ main{
 }
 .certificado img{
     position: relative;
-    left: -160px;
+    left: -150px;
     top: 15px;
 }
 
